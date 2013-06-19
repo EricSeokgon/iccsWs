@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/cache/CaPubs
+END
+cn=yessignCA,ou=AccreditedCA,o=yessign,c=kr.cpb
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/cache/CaPubs/cn=yessignCA,ou=AccreditedCA,o=yessign,c=kr.cpb
+END
+cn=CA131000002,ou=GPKI,o=Government of Korea,c=KR.cpb
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/cache/CaPubs/cn=CA131000002,ou=GPKI,o=Government%20of%20Korea,c=KR.cpb
+END
+cn=SignKorea CA,ou=AccreditedCA,o=SignKorea,c=KR.cpb
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/cache/CaPubs/cn=SignKorea%20CA,ou=AccreditedCA,o=SignKorea,c=KR.cpb
+END
+cn=CrossCert Certificate Authority,ou=AccreditedCA,o=CrossCert,c=KR.cpb
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/cache/CaPubs/cn=CrossCert%20Certificate%20Authority,ou=AccreditedCA,o=CrossCert,c=KR.cpb
+END
+cn=TradeSignCA,ou=AccreditedCA,o=TradeSign,c=KR.cpb
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/cache/CaPubs/cn=TradeSignCA,ou=AccreditedCA,o=TradeSign,c=KR.cpb
+END
+cn=signGATE CA2,ou=AccreditedCA,o=KICA,c=KR.cpb
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/cache/CaPubs/cn=signGATE%20CA2,ou=AccreditedCA,o=KICA,c=KR.cpb
+END

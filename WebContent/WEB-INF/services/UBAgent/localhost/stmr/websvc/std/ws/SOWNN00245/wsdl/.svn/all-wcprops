@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/localhost/stmr/websvc/std/ws/SOWNN00245/wsdl
+END
+SOWNN00245ServiceLocator.class
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/localhost/stmr/websvc/std/ws/SOWNN00245/wsdl/SOWNN00245ServiceLocator.class
+END
+RequestType.class
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/localhost/stmr/websvc/std/ws/SOWNN00245/wsdl/RequestType.class
+END
+ResponseType.class
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/localhost/stmr/websvc/std/ws/SOWNN00245/wsdl/ResponseType.class
+END
+SOWNN00245BindingStub.class
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/localhost/stmr/websvc/std/ws/SOWNN00245/wsdl/SOWNN00245BindingStub.class
+END
+SOWNN00245PortTypeProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/localhost/stmr/websvc/std/ws/SOWNN00245/wsdl/SOWNN00245PortTypeProxy.class
+END
+SOWNN00245Service.class
+K 25
+svn:wc:ra_dav:version-url
+V 228
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/localhost/stmr/websvc/std/ws/SOWNN00245/wsdl/SOWNN00245Service.class
+END
+SOWNN00245PortType.class
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/localhost/stmr/websvc/std/ws/SOWNN00245/wsdl/SOWNN00245PortType.class
+END

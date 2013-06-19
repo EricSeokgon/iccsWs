@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions name="SOWNN00245Service" targetNamespace="http://localhost/stmr/websvc/std/ws/SOWNN00245/wsdl" xmlns:tns="http://localhost/stmr/websvc/std/ws/SOWNN00245/wsdl" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+<xsd:schema targetNamespace="http://localhost/stmr/websvc/std/ws/SOWNN00245/wsdl" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:complexType name="RequestType">
+ <xsd:sequence>
+   <xsd:element name="IFID" type="xsd:string"/>
+   <xsd:element name="SRCORGCD" type="xsd:string"/>
+   <xsd:element name="TGTORGCD" type="xsd:string"/>
+   <xsd:element name="RESULTCODE" type="xsd:string"/>
+   <xsd:element name="MSGKEY" type="xsd:string"/>
+   <xsd:element name="DATA" type="xsd:string"/>
+ </xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name="ResponseType">
+ <xsd:sequence>
+   <xsd:element name="IFID" type="xsd:string"/>
+   <xsd:element name="SRCORGCD" type="xsd:string"/>
+   <xsd:element name="TGTORGCD" type="xsd:string"/>
+   <xsd:element name="RESULTCODE" type="xsd:string"/>
+   <xsd:element name="MSGKEY" type="xsd:string"/>
+   <xsd:element name="DATA" type="xsd:string"/>
+ </xsd:sequence>
+</xsd:complexType>
+</xsd:schema>
+  </types>
+  <message name="RequestMessage">
+    <part name="DOCUMENT" type="tns:RequestType"/>
+  </message>
+  <message name="ResponseMessage">
+    <part name="DOCUMENT" type="tns:ResponseType"/>
+  </message>
+  <portType name="SOWNN00245PortType">
+    <operation name="SOWNN00214">
+      <input message="tns:RequestMessage"/>
+      <output message="tns:ResponseMessage"/>
+    </operation>
+  </portType>
+  <binding name="SOWNN00245Binding" type="tns:SOWNN00245PortType">
+    <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <operation name="SOWNN00214">
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+  </binding>
+  <service name="SOWNN00245Service">
+    <port name="SOWNN00245Port" binding="tns:SOWNN00245Binding">
+      <soap:address location="http://localhost/stmr/websvc/std/ws"/>
+    </port>
+  </service>
+</definitions>

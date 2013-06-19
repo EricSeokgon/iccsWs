@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS
+END
+EnvData_File.ber
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/EnvData_File.ber
+END
+plainText_File.txt
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/plainText_File.txt
+END
+SignedData.ber
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/SignedData.ber
+END
+kmCert1.der
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/kmCert1.der
+END
+kmCert2.der
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/kmCert2.der
+END
+WapEnvelopedData.xdr
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/WapEnvelopedData.xdr
+END
+signCert1.der
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/signCert1.der
+END
+signCert2.der
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/signCert2.der
+END
+SignedContent.xdr
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/SignedContent.xdr
+END
+signCert3.der
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/signCert3.der
+END
+message_File.txt
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/message_File.txt
+END
+SignedData_File.ber
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/SignedData_File.ber
+END
+signPri1.key
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/signPri1.key
+END
+Messsage_File.txt
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/Messsage_File.txt
+END
+signPri2.key
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/signPri2.key
+END
+plainText.txt
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/plainText.txt
+END
+signPri3.key
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/signPri3.key
+END
+kmPri1.key
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/kmPri1.key
+END
+signedAndEnvData.ber
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/signedAndEnvData.ber
+END
+kmPri2.key
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/kmPri2.key
+END
+EnvelopedData.ber
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/src/sample/java/Sample/CMS/EnvelopedData.ber
+END

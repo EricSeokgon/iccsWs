@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs
+END
+SVR4410000003_env.cer
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR4410000003_env.cer
+END
+SVR4410000005_env.cer
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR4410000005_env.cer
+END
+SVR6410000081_env.key
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR6410000081_env.key
+END
+SVR1310505007CA.der2
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR1310505007CA.der2
+END
+SVR4410000003_sig.cer
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR4410000003_sig.cer
+END
+SVR4410000005_sig.cer
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR4410000005_sig.cer
+END
+SVR6410000081_sig.key
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR6410000081_sig.key
+END
+SVR4090000005CA.der
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR4090000005CA.der
+END
+SVR4090000005CA.der2
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR4090000005CA.der2
+END
+GPKIRootCA1.der
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/GPKIRootCA1.der
+END
+SVR4080138001_env.cer
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR4080138001_env.cer
+END
+SVR1310505007CA.der
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR1310505007CA.der
+END
+SVR4410000003_env.key
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR4410000003_env.key
+END
+SVR4410000005_env.key
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR4410000005_env.key
+END
+SVR4080138001CA.der2
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR4080138001CA.der2
+END
+SVR4410000003_sig.key
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR4410000003_sig.key
+END
+NPKIRootCA1.der
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/NPKIRootCA1.der
+END
+SVR6410000081_env.cer
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR6410000081_env.cer
+END
+SVR4410000005_sig.key
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR4410000005_sig.key
+END
+SVR6410000081_sig.cer
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR6410000081_sig.cer
+END
+SVR4080138001CA.der
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/certs/SVR4080138001CA.der
+END

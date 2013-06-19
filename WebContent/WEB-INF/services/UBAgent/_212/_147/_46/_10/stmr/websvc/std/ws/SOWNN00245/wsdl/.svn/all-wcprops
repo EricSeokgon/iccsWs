@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/_212/_147/_46/_10/stmr/websvc/std/ws/SOWNN00245/wsdl
+END
+RequestTypeDATAMessageBody.class
+K 25
+svn:wc:ra_dav:version-url
+V 245
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/_212/_147/_46/_10/stmr/websvc/std/ws/SOWNN00245/wsdl/RequestTypeDATAMessageBody.class
+END
+SOWNN00245ServiceLocator.class
+K 25
+svn:wc:ra_dav:version-url
+V 243
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/_212/_147/_46/_10/stmr/websvc/std/ws/SOWNN00245/wsdl/SOWNN00245ServiceLocator.class
+END
+RequestType.class
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/_212/_147/_46/_10/stmr/websvc/std/ws/SOWNN00245/wsdl/RequestType.class
+END
+ResponseType.class
+K 25
+svn:wc:ra_dav:version-url
+V 231
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/_212/_147/_46/_10/stmr/websvc/std/ws/SOWNN00245/wsdl/ResponseType.class
+END
+SOWNN00245BindingStub.class
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/_212/_147/_46/_10/stmr/websvc/std/ws/SOWNN00245/wsdl/SOWNN00245BindingStub.class
+END
+SOWNN00245PortTypeProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 242
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/_212/_147/_46/_10/stmr/websvc/std/ws/SOWNN00245/wsdl/SOWNN00245PortTypeProxy.class
+END
+SOWNN00245Service.class
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/_212/_147/_46/_10/stmr/websvc/std/ws/SOWNN00245/wsdl/SOWNN00245Service.class
+END
+ResponseTypeDATAMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 242
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/_212/_147/_46/_10/stmr/websvc/std/ws/SOWNN00245/wsdl/ResponseTypeDATAMessage.class
+END
+ResponseTypeDATAMessageBodyList.class
+K 25
+svn:wc:ra_dav:version-url
+V 250
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/_212/_147/_46/_10/stmr/websvc/std/ws/SOWNN00245/wsdl/ResponseTypeDATAMessageBodyList.class
+END
+RequestTypeDATA.class
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/_212/_147/_46/_10/stmr/websvc/std/ws/SOWNN00245/wsdl/RequestTypeDATA.class
+END
+SOWNN00245PortType.class
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/_212/_147/_46/_10/stmr/websvc/std/ws/SOWNN00245/wsdl/SOWNN00245PortType.class
+END
+RequestTypeDATAMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 241
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/_212/_147/_46/_10/stmr/websvc/std/ws/SOWNN00245/wsdl/RequestTypeDATAMessage.class
+END
+ResponseTypeDATA.class
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/svn/%EC%8B%9C%EB%8F%84%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%AF%BC%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C/!svn/ver/66/iccsWs/WebContent/WEB-INF/services/UBAgent/_212/_147/_46/_10/stmr/websvc/std/ws/SOWNN00245/wsdl/ResponseTypeDATA.class
+END
